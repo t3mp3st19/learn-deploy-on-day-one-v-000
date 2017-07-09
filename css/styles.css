@@ -4908,6 +4908,14 @@ a:visited {
     background-image: url("https://raw.githubusercontent.com/WilliamBarela/profile-pics/master/wb-learn-headshot-sm.jpg");
 }
 
+#chrissa-constantine-cover {
+ background-image: url("http://i.imgur.com/t6GRT42.jpg");
+}
+
+#chrissa-constantine-card {
+ background-image: url("http://i.imgur.com/7f2y5Al.jpg?1");
+}
+
 .view-profile-div {
   position: absolute;
   bottom: 0;
